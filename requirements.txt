@@ -1,0 +1,5 @@
+streamlit
+python-dotenv
+openai==1.23.2
+streamlit-authenticator
+deta
